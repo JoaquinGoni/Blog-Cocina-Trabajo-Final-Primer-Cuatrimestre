@@ -1,0 +1,31 @@
+footer{
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+
+footer img{
+    width: 100px;
+    transition: all 0.3;
+    opacity: 0.5;
+}
+
+footer img:hover{
+    opacity: 1;
+}
+
+#wa{
+    width: 160px;
+    position: fixed;
+    bottom: -25px;
+    right: -30px;
+    transition: all 0.3s;
+}
+
+#wa:hover{
+    transform: rotateZ(360deg);
+}
+
+

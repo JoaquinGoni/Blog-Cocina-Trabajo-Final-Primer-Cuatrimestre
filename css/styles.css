@@ -1,0 +1,11 @@
+@import "colors.css";
+@import "common.css";
+@import "header.css";
+@import "navbar.css";
+@import "aside.css";
+@import "content.css";
+@import "footer.css";
+
+@import "flipcard.css";
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
